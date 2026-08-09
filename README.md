@@ -21,5 +21,5 @@ combination of their two hole cards and the five community cards to determine th
 Explanation for the strategy used in Version 4.0:
 (to be added)
 
-V6.6 was the result of deadline-induced panic and outsourcing the thinking to Gemini. Needless to say, it failed spectacularly, and with all the modifications which made the strategy un-understandable to me, it still achieved a performance only marginally better than Version 4.0. I would be delighted if someone manages to make sense of that strategy someday. 
+
 
